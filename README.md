@@ -1,5 +1,4 @@
 # Task Assignments
 [Benjamin Shuster - bentzi-shuster](./bentzi-shuster.md)
 
-
-[Michelle Bautista - michellebau](./michellebau.md)
+[Gabriel Eaton - ge64](./ge64.md)
