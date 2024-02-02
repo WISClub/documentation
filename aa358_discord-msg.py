@@ -4,7 +4,7 @@ import requests
 url = "insert request URL"
 
 payload = {
-    "content" : "IS 421"
+    "content" : "insert text to be posted"
 }
 
 headers = {
