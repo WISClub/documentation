@@ -18,11 +18,12 @@
  ***
 
 ### Due 2/9/2024 
-<details>
-<summary>(2 tasks)</summary>
 
 > [!NOTE]  
 > Github 2FA can and will ruin your day.😭
+
+<details>
+<summary>(2 tasks)</summary>
 
 **Task:**
  1. Make a example repo for testing github Auth0 oauth with playwright. 
